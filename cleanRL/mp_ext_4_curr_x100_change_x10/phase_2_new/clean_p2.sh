@@ -1,0 +1,1 @@
+rm -r phase_2_models runs best_perform_adapt min_loss_adapt

@@ -1,0 +1,1 @@
+rm -rf check_points runs top_policies

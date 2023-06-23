@@ -1,0 +1,9 @@
+__pycache__/
+**/check_points
+**/top_policies
+**/__pycache__
+**/runs
+*.pt
+*.pth
+**/runs
+**/wandb
